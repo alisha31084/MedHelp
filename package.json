@@ -1,0 +1,44 @@
+{
+  "name": "doctor-recommendation-app",
+  "version": "1.0.0",
+  "description": "A web application that recommends doctors based on symptoms and sorted accordint to location and user ratings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisha31084/DocHelp.git"
+  },
+  "keywords": [
+    "doctor",
+    "recommendation",
+    "symptoms",
+    "ratings",
+    "web",
+    "app"
+  ],
+  "author": "Alisha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alisha31084/DocHelp/issues"
+  },
+  "homepage": "https://github.com/alisha31084/DocHelp#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "bootstrap": "^5.3.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.2",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.1.1",
+    "react-router-dom": "^6.22.3",
+    "redux": "^5.0.1"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^15.0.3",
+    "eslint": "^9.1.1",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "prettier": "^3.2.5"
+  }
+}
